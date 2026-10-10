@@ -1,6 +1,8 @@
+
+
 # Krita_SpaceMouse_Plugin
 3DConnecion SpaceMouse Support For  Krita 
-
+<img width="1036" height="805" alt="krita_aZtDBFNtMs" src="https://github.com/user-attachments/assets/0458c367-d497-41a6-b61e-1794736bc267" />
 用 3Dconnexion SpaceMouse 控制 Krita 画布的**平移、缩放、旋转**。
 ## 声明
 我并不会编写插件,所有内容使用DeepSeek生成.目的是可以用3DSpaceMouse提高绘画效率.
