@@ -29,7 +29,7 @@
 ## 🚀 安装
 
 1. 安装 [3DxWare 驱动](https://3dconnexion.com/software/3dxware/)
-2. 安装 pynavlib(注意使用对应Krita的Python版本)：
+2. 安装 pynavlib(注意使用对应Krita的Python版本,安装好Python后打开PowerShell输入如下代码)：
    ```powershell
    py -3.13 -m pip install pynavlib --target="$env:APPDATA\krita\pykrita"
 
